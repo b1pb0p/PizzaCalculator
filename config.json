@@ -1,0 +1,25 @@
+{
+    "json_recipes_path": "data/saved_pizza_recipes.json",
+    "xlsx_yeast_table_path": "data/yeast.xlsx",
+    "save_icon": "icons/diskette.png",
+    "load_icon": "icons/folder.png",
+    "salt_percentage": 3,
+    "oil_percentage": 1,
+    "yeast_types": [
+        "ADY",
+        "IDY",
+        "CY"
+    ],
+    "hydration": 75,
+    "ball_weight": 300,
+    "num_balls": 3,
+    "temp_row_range_l": 5,
+    "temp_row_range_r": 66,
+    "temp_row_range_offset": 0,
+    "room_temperature_row": 35,
+    "fridge_temperature_row": 4,
+    "room_time_default": 23,
+    "fridge_time_default": 8,
+    "start_hour_index": 3,
+    "end_hour_index": 29
+}
